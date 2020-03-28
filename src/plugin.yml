@@ -1,0 +1,6 @@
+name: RaiderzEnchants
+version: 0.1
+main: net.raiderzmc.raiderzenchants.RaiderzEnchants
+commands:
+  raiderzenchants:
+    description: The A-I-O command for RaiderzEnchants
